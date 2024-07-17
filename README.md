@@ -1,0 +1,54 @@
+# Rust Projects
+
+The repo hosts the code for various minor or major projects built using the Rust programming language.
+
+## Table of Contents
+
+- [Rust Projects](#rust-projects)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Projects](#projects)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+
+## Introduction
+
+This repository contains a collection of projects developed using Rust. Each project is self-contained and demonstrates different features and capabilities of the Rust programming language.
+
+## Projects
+
+1. **File Compressor**
+   - Description: File compressor is a Rust-based utility that shrinks files by applying compression algorithms. It reduces storage requirements and transmission times, making it ideal for efficient data management.
+
+   - [More details](https://github.com/charankulal/Rust-Projects/tree/master/file_compressor)
+
+## Installation
+
+To get started with any of the projects, clone the repository and navigate to the project's directory:
+
+```sh
+git clone https://github.com/charankulal/rust-projects.git
+cd rust-projects/project-name
+```
+
+Ensure you have Rust installed. If not, you can install it from [rustup.rs](https://rustup.rs/)
+
+## Usage
+
+To run a project, navigate to the project's directory and use Cargo to build and run it:
+
+```sh
+cd project-name
+cargo run
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a Pull Request.
