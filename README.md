@@ -23,6 +23,11 @@ This repository contains a collection of projects developed using Rust. Each pro
 
    - [More details](https://github.com/charankulal/Rust-Projects/tree/master/file_compressor)
 
+2. **File UnZipper**
+   - Description: File unzipper is a Rust-based utility that unzips the zipped file with maintaining the similar directory and file structure as in zipped file.
+
+   - [More details](https://github.com/charankulal/Rust-Projects/tree/master/decompressor)
+
 ## Installation
 
 To get started with any of the projects, clone the repository and navigate to the project's directory:
