@@ -33,6 +33,11 @@ This repository contains a collection of projects developed using Rust. Each pro
 
    - [More details](https://github.com/charankulal/Rust-Projects/tree/master/csv_reader)
 
+4. **JSON Reader**
+   - Description: JSON reader will read out the contents in the json format and log them in the terminal.
+
+   - [More details](https://github.com/charankulal/Rust-Projects/tree/master/read_json)
+
 ## Installation
 
 To get started with any of the projects, clone the repository and navigate to the project's directory:
