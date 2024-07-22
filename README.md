@@ -38,6 +38,11 @@ This repository contains a collection of projects developed using Rust. Each pro
 
    - [More details](https://github.com/charankulal/Rust-Projects/tree/master/read_json)
 
+5. **JSON Writer**
+   - Description: JSON writer will convert the text contents into the json format and log them in the terminal.
+
+   - [More details](https://github.com/charankulal/Rust-Projects/tree/master/json_writer)
+
 ## Installation
 
 To get started with any of the projects, clone the repository and navigate to the project's directory:
