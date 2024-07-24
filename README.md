@@ -43,6 +43,11 @@ This repository contains a collection of projects developed using Rust. Each pro
 
    - [More details](https://github.com/charankulal/Rust-Projects/tree/master/json_writer)
 
+6. **Get Request**
+   - Description: This project will elaborate the usage of get request method in rust.
+
+   - [More details](https://github.com/charankulal/Rust-Projects/tree/master/get-request)
+
 ## Installation
 
 To get started with any of the projects, clone the repository and navigate to the project's directory:
