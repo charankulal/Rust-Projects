@@ -53,6 +53,11 @@ This repository contains a collection of projects developed using Rust. Each pro
 
    - [More details](https://github.com/charankulal/Rust-Projects/tree/master/async-rust)
 
+8. **Calling API**
+   - Description: This project will elaborate the usage of asynchronous get request method in rust by using tokio and reqwest crates with using async and await fetches data from realtime APIs.
+
+   - [More details](https://github.com/charankulal/Rust-Projects/tree/master/calling_api)
+
 ## Installation
 
 To get started with any of the projects, clone the repository and navigate to the project's directory:
